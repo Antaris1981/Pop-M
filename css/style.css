@@ -104,3 +104,8 @@ section {
 .woman-image {
   width: 40%;
 }
+
+.logo {
+  text-decoration: none;
+  color: #ffffff;
+}
